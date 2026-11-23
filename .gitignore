@@ -1,0 +1,10 @@
+# Arquivos temporários e de edição
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
