@@ -1,4 +1,7 @@
-.
+## Formação Linux Fundamentals.
+
+<img width="120" height="120" alt="1000136618" src="https://github.com/user-attachments/assets/5bb3cd93-d51b-493e-9af3-e613f0574ead" />
+
 
 
 ---
