@@ -2,7 +2,7 @@
 
 <img width="120" height="120" alt="Formação Linux Fundamentals" src="https://github.com/user-attachments/assets/5bb3cd93-d51b-493e-9af3-e613f0574ead" />
 
-> **Formação Linux Fundamentals (DIO)**: projeto de automação em **Bash** que transforma uma VM Linux recém-criada em um ambiente departamental pronto para uso, com um único comando.
+> **Formação Linux Fundamentals**: projeto de automação em **Bash** que transforma uma VM Linux recém-criada em um ambiente departamental pronto para uso, com um único comando.
 
 ---
 
