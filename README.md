@@ -3,7 +3,10 @@
 
 ---
 
+
 ## Estrutura de Pastas e Arquivos no GitHub:
+
+```
 
 linux-script-infraestrutura-como-codigo/
 ├── README.md
@@ -14,6 +17,7 @@ linux-script-infraestrutura-como-codigo/
 └── docs/
     └── matriz-permissoes.md
 
+```
 
 ---
 
