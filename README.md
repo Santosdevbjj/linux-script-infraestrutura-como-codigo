@@ -144,6 +144,8 @@ git add .
 git commit -m "feat: adiciona scripts de IaC para usuários, diretórios e permissões no Linux"
 git push -u origin main
 
+```
+
 ---
 
 **Autor:** Sérgio Santos — Cientista de Dados | Ambientes Críticos e Governança de Dados
